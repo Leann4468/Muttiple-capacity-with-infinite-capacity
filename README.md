@@ -64,5 +64,7 @@ print("--------------------------------------------------------------")
 
 ## Output :
 
-## Result : 
+![image](https://github.com/Leann4468/Muttiple-capacity-with-infinite-capacity/assets/121165979/54480753-5dae-4bcb-8d42-44d494f775d0)
 
+## Result : 
+Thus, the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
